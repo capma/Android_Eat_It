@@ -1,0 +1,48 @@
+{
+  "Category": {
+    "10": {
+      "Name": "MEDIFOODS DELIGHTS",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-delights.jpg"
+    },
+    "11": {
+      "Name": "SNACKS",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-snacks.jpg"
+    },
+    "01": {
+      "Name": "FINGER FOODS",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fingerfoods2.jpg"
+    },
+    "02": {
+      "Name": "WESTERN SOUPS",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-westernsoup1.jpg"
+    },
+    "03": {
+      "Name": "EASTERN SOUPS",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-easternsoup.jpg"
+    },
+    "04": {
+      "Name": "SANWICHES",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-sandwich.jpg"
+    },
+    "05": {
+      "Name": "PIZZA",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-pizza.jpg"
+    },
+    "06": {
+      "Name": "PASTA",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-pasta1.jpg"
+    },
+    "07": {
+      "Name": "CHICKEN",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-chicken.jpg"
+    },
+    "08": {
+      "Name": "FISH",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fish.jpg"
+    },
+    "09": {
+      "Name": "CHINESE VEGETARIAN",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-vegetarian.jpg"
+    }
+  }
+}

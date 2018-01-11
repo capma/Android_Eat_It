@@ -1,0 +1,4 @@
+#Wed Jan 10 22:07:55 EST 2018
+base.0=D\:\\WORKING\\SELF_LEARNING\\Android\\Android_Eat_It\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\39
+path.0=classes.dex
+renamed.0=classes.dex

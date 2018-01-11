@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\WORKING\SELF_LEARNING\Android\Android_Eat_It\app\src\main\assets"><file name="fonts/Nabila.ttf" path="D:\WORKING\SELF_LEARNING\Android\Android_Eat_It\app\src\main\assets\fonts\Nabila.ttf"/></source><source path="D:\WORKING\SELF_LEARNING\Android\Android_Eat_It\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\WORKING\SELF_LEARNING\Android\Android_Eat_It\app\src\debug\assets"/></dataSet></merger>
